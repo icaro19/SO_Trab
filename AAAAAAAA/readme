@@ -1,0 +1,5 @@
+Produtor e consumidor:
+Entrada: tamanho do buffer, maximos de itens produzidos, maximo de itens consumidos
+
+Filósofos Glutões:
+Entrada: numero de filosofos, tempo de pensamento e tempo comendo
